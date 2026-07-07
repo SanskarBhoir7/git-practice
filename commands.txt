@@ -6,3 +6,10 @@ git commit -m "MESSAGE" #to create backup
 git log #to track commit
 git push
 git pull
+git branch # check current branch
+git branch -m main
+git remote add origin https://github.com/SanskarBhoir7/gitpractice.git
+git push -u origin main # create online backup on github
+git pull origin "name of branch"
+git checkout "name of branch" # to shift working branch"
+git branch "name of branch" #to create a branch 
