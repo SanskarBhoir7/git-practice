@@ -13,3 +13,4 @@ git push -u origin main # create online backup on github
 git pull origin "name of branch"
 git checkout "name of branch" # to shift working branch"
 git branch "name of branch" #to create a branch 
+git commit "commit-id" # to go to previous state
