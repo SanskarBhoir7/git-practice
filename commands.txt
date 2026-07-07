@@ -4,7 +4,7 @@ git add . #add files from working directory to staging area
 git status # to track status and changes
 git commit -m "MESSAGE" #to create backup
 git log #to track commit
-git 
+git push
 git pull
 git branch # check current branch
 git branch -m main
