@@ -1,7 +1,7 @@
 git init
-git add .
-git status
+git add . #add files from working directory to staging area
+git status # to track status and changes
 git commit -m "MESSAGE" #to create backup
-git log
+git log #to track commit
 git push
 git pull
