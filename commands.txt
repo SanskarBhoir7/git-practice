@@ -1,3 +1,4 @@
+Important Git Commands:
 git --version # to check version
 git init # start tracking changes and initialize git
 git add . #add files from working directory to staging area
